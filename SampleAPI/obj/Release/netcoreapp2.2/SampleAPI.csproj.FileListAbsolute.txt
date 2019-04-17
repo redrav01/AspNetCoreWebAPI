@@ -1,0 +1,14 @@
+C:\Users\Ravi\Documents\Visual Studio 2017\Projects\SampleAPIService\SampleAPI\obj\Release\netcoreapp2.2\SampleAPI.csprojAssemblyReference.cache
+C:\Users\Ravi\Documents\Visual Studio 2017\Projects\SampleAPIService\SampleAPI\obj\Release\netcoreapp2.2\SampleAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ravi\Documents\Visual Studio 2017\Projects\SampleAPIService\SampleAPI\obj\Release\netcoreapp2.2\SampleAPI.RazorAssemblyInfo.cache
+C:\Users\Ravi\Documents\Visual Studio 2017\Projects\SampleAPIService\SampleAPI\obj\Release\netcoreapp2.2\SampleAPI.RazorAssemblyInfo.cs
+C:\Users\Ravi\Documents\Visual Studio 2017\Projects\SampleAPIService\SampleAPI\obj\Release\netcoreapp2.2\SampleAPI.AssemblyInfoInputs.cache
+C:\Users\Ravi\Documents\Visual Studio 2017\Projects\SampleAPIService\SampleAPI\obj\Release\netcoreapp2.2\SampleAPI.AssemblyInfo.cs
+C:\Users\Ravi\Documents\Visual Studio 2017\Projects\SampleAPIService\SampleAPI\bin\Release\netcoreapp2.2\SampleAPI.deps.json
+C:\Users\Ravi\Documents\Visual Studio 2017\Projects\SampleAPIService\SampleAPI\bin\Release\netcoreapp2.2\SampleAPI.runtimeconfig.json
+C:\Users\Ravi\Documents\Visual Studio 2017\Projects\SampleAPIService\SampleAPI\bin\Release\netcoreapp2.2\SampleAPI.runtimeconfig.dev.json
+C:\Users\Ravi\Documents\Visual Studio 2017\Projects\SampleAPIService\SampleAPI\bin\Release\netcoreapp2.2\SampleAPI.dll
+C:\Users\Ravi\Documents\Visual Studio 2017\Projects\SampleAPIService\SampleAPI\bin\Release\netcoreapp2.2\SampleAPI.pdb
+C:\Users\Ravi\Documents\Visual Studio 2017\Projects\SampleAPIService\SampleAPI\obj\Release\netcoreapp2.2\SampleAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Ravi\Documents\Visual Studio 2017\Projects\SampleAPIService\SampleAPI\obj\Release\netcoreapp2.2\SampleAPI.dll
+C:\Users\Ravi\Documents\Visual Studio 2017\Projects\SampleAPIService\SampleAPI\obj\Release\netcoreapp2.2\SampleAPI.pdb
